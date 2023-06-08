@@ -8,14 +8,14 @@ comments: true
 ---
 
 # Concert Program
-The Chimes of Liberty
-An American Celebration
-Nathan Hale Trilogy
-Armed forces Medley
-George Washington Centennial March
-This is My country
-The Star Spangled Banner
-God Bless America
-America the Beautiful
-Navy Hymn
-Amazing Grace
+- The Chimes of Liberty
+- An American Celebration
+- Nathan Hale Trilogy
+- Armed forces Medley
+- George Washington Centennial March
+- This is My country
+- The Star Spangled Banner
+- God Bless America
+- America the Beautiful
+- Navy Hymn
+- Amazing Grace
